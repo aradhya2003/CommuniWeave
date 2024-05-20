@@ -1,0 +1,3 @@
+build:
+  command: "export CI=false && yarn install && cd client && yarn install && yarn run build"
+  publish: "/opt/build/repo"
