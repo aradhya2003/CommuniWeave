@@ -1,7 +1,7 @@
 # CommuniWeave
 CommuniWeave is a fully-featured social media web application, built with the MERN stack.  
 
-![GIF of CommuniWeave walkthrough](https://media.giphy.com/media/9tnaXy42T4NzSJdHhP/giphy.gif)
+
 
 ## Features
 - Create, read, update and delete posts
